@@ -2,10 +2,6 @@
 
 A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The clock displays the current hour, minute, and second, with a smooth scaling animation on each tick update.
 
-## 🌐 Live Preview
-
-You can view the live version here: *[Add GitHub Pages link or Netlify link]*
-
 ---
 
 ## Features
