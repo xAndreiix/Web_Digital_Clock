@@ -1,0 +1,23 @@
+# Ignore OS and editor/system files
+.DS_Store
+Thumbs.db
+
+# Node (optional if not used, but safe to include)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output (if any tools generate them)
+dist/
+build/
+*.log
+
+# VSCode or JetBrains project settings
+.vscode/
+.idea/
+
+# Optional: local environment config
+.env
+.env.local
+.env.*.local
