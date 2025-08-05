@@ -10,7 +10,7 @@ A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The cl
 
 ---
 
-## Features
+## ⚙️ Features
 
 - Real-time clock updates every second.
 - Clean, modern UI with CSS transitions.
@@ -27,7 +27,6 @@ A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The cl
 - ├── LICENSE            # MIT License
 - ├── README.md          # Project documentation
 - └── .gitignore         # Git and OS-related ignores
-
 
 ---
 
@@ -49,6 +48,8 @@ Since this is a static front-end project with no business logic beyond rendering
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+---
 
 ## ✍️ Author
 - Andrei Iliescu
