@@ -4,6 +4,12 @@ A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The cl
 
 ---
 
+## 💻 Live Demo
+
+- [⛓️‍💥 Demo](https://web-digital-clock-woad.vercel.app/)
+
+---
+
 ## Features
 
 - Real-time clock updates every second.
@@ -34,8 +40,12 @@ A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The cl
 
 2. Open index.html directly in a browser. No build step or server required.
 
+---
+
 ## 🧪 Testing (Optional)
 Since this is a static front-end project with no business logic beyond rendering time, no formal testing setup is necessary. However, visual testing and performance checks in multiple browsers are recommended.
+
+---
 
 ## 📄 License
 This project is licensed under the MIT License.
