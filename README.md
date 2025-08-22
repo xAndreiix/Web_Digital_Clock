@@ -10,6 +10,14 @@ A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The cl
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/clock.png" width="600">
+</p>
+
+---
+
 ## ⚙️ Features
 
 - Real-time clock updates every second.
