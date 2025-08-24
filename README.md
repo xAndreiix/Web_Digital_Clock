@@ -73,6 +73,8 @@ cd digital-clock
 <!-- ## Runing tests -->
 <!-- ## Deployment -->
 <!-- Notes -->
+<!-- ## Road Map -->
+<!-- ## FAQ -->
 
 ---
 
