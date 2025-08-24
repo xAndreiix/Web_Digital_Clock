@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Project Description](#project-description)
 - 💻 [Live Demo](#live-demo)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
@@ -17,7 +17,7 @@
 
 ---
 
-## Introduction
+## Project Description
 A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The clock displays the current hour, minute, and second, with a smooth scaling animation on each tick update.
 <!-- ## Badges -->
 
