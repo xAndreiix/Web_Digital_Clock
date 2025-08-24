@@ -49,7 +49,7 @@ A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The cl
 ---
 
 ## Project Structure
-- │ 🗂️ digital-clock-app/
+- │ 📁 digital-clock-app/
 - ├── index.html
 - ├── style.css
 - ├── script.js
@@ -68,6 +68,7 @@ git clone https://github.com/xAndreiix/Web_Digital_Clock.git
 cd digital-clock
 ```
 2. Open index.html directly in a browser. No build step or server required.
+<!-- ## Usage -->
 <!-- ## Configuration -->
 <!-- ## Runing tests -->
 <!-- ## Deployment -->
