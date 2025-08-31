@@ -29,7 +29,13 @@ A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The cl
 ---
 ## Screenshots
 <p align="center">
-  <img src="screenshots/clock.png" width="600">
+  <img src="screenshots/webpage-digital-clock-mockup.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/digital-clock-mockup.png" width="600">
 </p>
 
 ---
@@ -54,7 +60,8 @@ A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. The cl
 - ├── style.css
 - ├── script.js
 - ├── screenshots/
-- │   └── clock.png
+- │   └── digital-clock-mockup.png
+- │   └── webpage-digital-clock-mockup.png
 - ├── LICENSE
 - ├── README.md
 - └── .gitignore
